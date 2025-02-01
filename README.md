@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 <div>
     <a href="https://www.loom.com/share/17330006676244cb9bb341c8f802fd86">
-      <p>General | Workspace Settings | Loom - 1 February 2025 - Watch Video</p>
+      
     </a>
     <a href="https://www.loom.com/share/17330006676244cb9bb341c8f802fd86">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/17330006676244cb9bb341c8f802fd86-b7e1525fc030f5b1-full-play.gif">
