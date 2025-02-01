@@ -28,16 +28,17 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
-Meet up
-    . Different Pages
-    . Menus
-Youtube
-    . Shorts
-    . Video search
+- Meet up
+    - Different Pages
+    - Menus
+- Youtube
+    - Shorts
+    - Video search
     
-CityFind
-
-Finding thins to do in cities with friends and strangers based on interests
+- ParkMe
+    - Helping to locate and find parking in an area. Making the parking search more efficient and less frustrating
+    to drivers. Take account of area traffic, building density, parking rules, designation and other factors to
+    filter through. 
 
 ## Notes
 
