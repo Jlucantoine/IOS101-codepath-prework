@@ -38,7 +38,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - ParkMe
     - Helping to locate and find parking in an area. Making the parking search more efficient and less frustrating
     to drivers. Take account of area traffic, building density, parking rules, designation and other factors to
-    filter through. 
+    filter through and consider.
 
 ## Notes
 
